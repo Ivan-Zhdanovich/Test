@@ -1,0 +1,22 @@
+.header__container {
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.header__container-tabs, li {
+list-style: none;
+}
+
+.header__container-tabs {
+    display: flex;
+    gap: 40px;
+}
+
+.images {
+    display: flex;
+    gap: 30px;
+}
